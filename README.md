@@ -1,5 +1,5 @@
 #Hola , soy DAVID
-![IMAGEN](https://i.gifer.com/9lKH.gif)
+<img src="https://i.gifer.com/9lKH.gif"/>
 
 ¡Que tal ,como estas ? 
 espero que bien .
